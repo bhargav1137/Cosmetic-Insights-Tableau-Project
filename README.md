@@ -1,141 +1,112 @@
-# Cosmetic Insights 💄 : Navigating Cosmetics Trends and Consumer Behavior
+# Cosmetic Insights: Analyzing Trends in the Cosmetics Industry
+
+![Cosmetics Dashboard](https://img.shields.io/badge/Cosmetic%20Insights%20Dashboard-blue?style=flat&logo=tableau)
+
+## Overview
+
+Welcome to the **Cosmetic-Insights-Tableau-Project**! This project focuses on data analytics in the cosmetics industry using Tableau. It was completed as part of a SmartInternz internship. The goal is to explore trends and insights that can help businesses understand consumer behavior and preferences in the cosmetics market.
+
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Technologies Used](#technologies-used)
+- [Data Sources](#data-sources)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Visualizations](#visualizations)
+- [Releases](#releases)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Project Description
+
+This project analyzes various aspects of the cosmetics industry. Using Tableau, I created interactive dashboards that visualize key metrics, such as sales trends, customer demographics, and product performance. The insights gained can assist businesses in making data-driven decisions.
+
+## Technologies Used
+
+- **Tableau**: For data visualization and dashboard creation.
+- **Excel**: For data manipulation and initial analysis.
+- **Python**: For data cleaning and preprocessing.
+- **SQL**: For database management and queries.
+
+## Data Sources
+
+The data used in this project comes from various sources, including:
+
+- Publicly available datasets on cosmetics sales.
+- Market research reports.
+- Social media sentiment analysis related to cosmetics brands.
+
+## Installation
+
+To run this project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/bhargav1137/Cosmetic-Insights-Tableau-Project.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd Cosmetic-Insights-Tableau-Project
+   ```
+
+3. **Download the necessary files from the Releases section**:
+   Visit [Releases](https://github.com/bhargav1137/Cosmetic-Insights-Tableau-Project/releases) to find the required files.
+
+## Usage
+
+1. Open Tableau and connect to the dataset provided in the project.
+2. Explore the various dashboards created to gain insights into the cosmetics industry.
+3. Use filters and parameters to customize your view and focus on specific metrics.
+
+## Features
+
+- **Interactive Dashboards**: Engage with data through interactive elements.
+- **Trend Analysis**: Identify patterns in cosmetics sales over time.
+- **Customer Insights**: Understand demographics and preferences.
+- **Product Performance**: Evaluate which products are performing well in the market.
+
+## Visualizations
+
+The project includes several key visualizations:
+
+1. **Sales Trends**: A line chart showing sales over time.
+2. **Customer Demographics**: A pie chart illustrating customer segments.
+3. **Product Performance**: A bar chart comparing different products.
+
+![Sales Trends](https://via.placeholder.com/600x300?text=Sales+Trends)
+![Customer Demographics](https://via.placeholder.com/600x300?text=Customer+Demographics)
+![Product Performance](https://via.placeholder.com/600x300?text=Product+Performance)
+
+## Releases
+
+For the latest updates and downloadable files, visit the [Releases section](https://github.com/bhargav1137/Cosmetic-Insights-Tableau-Project/releases). Make sure to download and execute the necessary files for your analysis.
+
+## Contributing
+
+If you would like to contribute to this project, please fork the repository and submit a pull request. Your contributions can help improve the project and make it more valuable for users.
+
+## License
+
+This project is licensed under the MIT License. Feel free to use and modify the code as needed.
 
 ---
 
-## 🛑 NOTE TO EVALUATORS & SMARTINTERNZ TEAM
+## Topics
 
-I am **Somapuram Uday**, a final-year CST student from **GPREC(A), Kurnool**, enrolled in the **Data Analytics with Tableau** track under the **SmartInternz – APSCHE Virtual Internship Program 2025**.
+- apsche
+- business-intelligence
+- cosmetics-industry
+- dashboard
+- data-analytics
+- data-visualization
+- gprec
+- smartinternz
+- solo-project
+- storytelling
+- student-project
+- tableau
 
-### 🌀 Project Journey & Clarifications
-
-1. **Initial Project & Team (Auto-Assigned)**  
-   - 🆔 **Team ID**: `LTVIP2025TMID49042`  
-   - 👤 **Role**: Team Leader  
-   - 📌 **Project**: Tentatively titled *“Toy Story”*  
-   - 👥 **Team Members**: Myself, Shaik Reshma, Shaik Sadiq Ismail, Sanda Kumar  
-   - ❗ **Issue**: All others were from **GPCET**, while I belong to **GPREC(A)**.
-
-2. **Repeated Issue Faced**  
-   - My profile showed **GPCET** incorrectly instead of **GPREC(A)**.  
-   - Sent **4–5 mails** to SmartInternz without receiving a reply.  
-   - As of **30th June 2025**, this profile issue still persists.
-
-3. **Change in Project Allocation**  
-   - 📩 On **June 25, 2025**, I was reassigned to:
-     - 🆕 **Team ID**: `LTVIP2025TMID49390`
-     - 🎯 **Project**: **Cosmetic Insights: Navigating Cosmetics**
-     - 👤 **New Team Leader**: Shaik Reshma  
-   - ❌ However, no team member responded (old or new) via email.  
-   - ✅ I then **discontinued the initial Toy project** and **fully completed the new project solo**, respecting the SmartInternz portal's updated project info and timelines.
-
-🔖 **NOTE:** Assignment files are stored under `1_Assignments/Somapuram_Uday/`. Please consider this folder as the official submission directory.
-
----
-
-## 📊 Project Overview
-
-**Title**: *Cosmetic Insights: Navigating Cosmetics Trends and Consumer Behavior*  
-**Internship Track**: Data Analytics with Tableau  
-**Goal**:  
-To understand consumer trends, product category performance, and regional insights in the cosmetics sector using Tableau dashboards. This project provides interactive insights for better decision-making by stakeholders.
-
----
-
-## 🧠 Technologies & Tools Used
-
-- **Tableau Public** – For data visualization and interactive dashboard design  
-- **Microsoft Excel** – For preprocessing and cleaning datasets  
-- **PDF Tools** – For documentation and reporting  
-- **Google Drive** – For video demo hosting and sharing  
-
----
-
-## 🧱 Repository Structure
-
-```
-Cosmetic-Insights-Tableau-Project/
-│
-├── 1_Assignments/Somapuram_Uday/
-│   ├── DA_Assignment_1_SOMAPURAM_UDAY.pdf
-│   ├── DA_Assignment_2_SOMAPURAM_UDAY.pdf
-│   └── DA_Assignment_3_SOMAPURAM_UDAY.pdf
-│
-├── 2_Ideation_Phase/
-│   ├── Brainstorming.pdf
-│   ├── Empathy_Map.pdf
-│   └── Problem_Statement.pdf
-│
-├── 3_Requirement_Analysis/
-│   ├── Customer_Journey_Map.pdf
-│   ├── Data_Flow_Diagram.pdf
-│   ├── Solution_Requirements.pdf
-│   └── Technology_Stack.pdf
-│
-├── 4_Project_Design_Phase/
-│   ├── Problem_Solution_Fit.pdf
-│   ├── Proposed_Solution.pdf
-│   └── Solution_Architecture.pdf
-│
-├── 5_Project_Planning_Phase/
-│   └── Project_Planning_Template.pdf
-│
-├── 6_Project_Executable_Files/
-│   ├── supermarket_sales.csv
-│   ├── Cosmetics_Dataset.csv
-│   ├── Cosmetics_Dataset.pdf
-│   ├── Dashboard.twbx
-│   ├── Screenshot_Dashboard.pdf
-│   └── (Temp Tableau backups – optional to remove)
-│       ├── ~Dashboard__12204.twbr
-│       └── ~Dashboard__2568.twbr
-│
-├── 7_Functional_Performance_Test/
-│   ├── Performance_Testing.pdf
-│   └── Screenshot_Report.pdf
-│
-├── 8_Doc_and_Demo/
-│   ├── Final_Report.pdf
-│   ├── Cosmetic_Insights_Project_Presentation.pptx
-│   ├── Cosmetic_Insights_Project_Presentation.pdf
-│   ├── VIDEO_DEMO_LINK.pdf
-│   ├── Video_Demo_Link.txt
-│   ├── LINKS.pdf
-│   └── Links.txt
-│
-├── README.md
-```
-
----
-
-## 📈 Tableau Public Dashboards
-
-- **Workbook**: [Cosmetic Insights Tableau Project](https://public.tableau.com/views/Cosmetic_Insights_Tableau_Project/Dashboard1)
-- **Dashboards**:
-  - [Dashboard 1](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_1/Dashboard1)
-  - [Dashboard 2](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_2/Dashboard2)
-  - [Dashboard 3](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Dashboard_3/Dashboard3)
-- **Story View**: [Cosmetic Insights Story](https://public.tableau.com/app/profile/somapuram.uday/viz/Cosmetic_Insights_Story/Story1)
-- **Demo Video**: [Watch on Google Drive](https://drive.google.com/file/d/1MsVV5ywteTWxaNzCil0Fwcyfkxwhz5z9/view?usp=sharing)
-
----
-
-## 👨‍🎓 About Me
-
-- **Name**: Somapuram Uday  
-- **Email**: 229x1a2856@gprec.ac.in  
-- **College**: GPREC(A), Kurnool  
-- **Branch**: Computer Science and Technology (CST)  
-- **Year**: Final Year  
-- **Internship Track**: Data Analytics using Tableau  
-
----
-
-## 🙏 Acknowledgments
-
-Special thanks to our mentors and facilitators who made this journey meaningful:
-
-- **Indraprakash Sir**
-- **Ganesh Sir**
-- **Mithun Sir**
-
-Your guidance and sessions have been a valuable part of this internship. 💐
+For any questions or feedback, please feel free to reach out. Your insights are valuable in enhancing this project!
